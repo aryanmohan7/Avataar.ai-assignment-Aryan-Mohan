@@ -1,6 +1,10 @@
 # Avataar.ai-assignment
 Avataar.ai assignment
 
+Depth verification
+        
+1. Visual inspection: You can visually inspect the generated image and its depth distribution to see if it aligns with the input depth map in terms of object shapes and relative distances.
+2. Perceptual metrics (limited): Some perceptual metrics like Structural Similarity Index (SSIM) or Peak Signal-to-Noise
 
 Code Execution and Analysis
 Execution:
